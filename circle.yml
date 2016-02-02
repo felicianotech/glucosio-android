@@ -1,3 +1,0 @@
-dependencies:
-  pre:
-    - echo "yes" | android update sdk --no-ui --all --filter build-tools-23.0.2
